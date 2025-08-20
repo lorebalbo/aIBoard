@@ -1,0 +1,12 @@
+[submodule "aIBoard.jl"]
+	path = aIBoard.jl
+	url = git@github.com:lorebalbo/aIBoard.jl.git
+[submodule "aIBoard-Frontend"]
+	path = aIBoard-Frontend
+	url = git@github.com:lorebalbo/aIBoard-Frontend.git
+[submodule "aIBoard-Backend"]
+	path = aIBoard-Backend
+	url = git@github.com:lorebalbo/aIBoard-Backend.git
+[submodule "aIBoard-WebSocket"]
+	path = aIBoard-WebSocket
+	url = git@github.com:lorebalbo/aIBoard-WebSocket.git
