@@ -6,10 +6,6 @@
 	path = aIBoard-Frontend
 	url = git@github.com:lorebalbo/aIBoard-Frontend.git
 	branch = main
-[submodule "aIBoard-Backend"]
-	path = aIBoard-Backend
-	url = git@github.com:lorebalbo/aIBoard-Backend.git
-	branch = main
 [submodule "aIBoard-WebSocket"]
 	path = aIBoard-WebSocket
 	url = git@github.com:lorebalbo/aIBoard-WebSocket.git
