@@ -6,5 +6,6 @@
   "eslint.nodePath": "aIBoard-Frontend/.yarn/sdks",
   "prettier.prettierPath": "aIBoard-Frontend/.yarn/sdks/prettier/index.cjs",
   "typescript.tsdk": "aIBoard-Frontend/.yarn/sdks/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "postman.settings.dotenv-detection-notification-visibility": false
 }
